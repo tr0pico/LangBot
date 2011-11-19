@@ -1,0 +1,5 @@
+'langbot' is a spoken language bot intended for use in IRC. Members of a channel where langbot is present may use commands to translate a given sentence from one language to another (for example, from English to French).
+
+langbot is written in Perl, and leverages the 'Apertium' library for it's translations.
+
+langbot is a creation of #/lang/ on irc.rizon.net. Come visit us to discuss linguistics and programming languages! 
